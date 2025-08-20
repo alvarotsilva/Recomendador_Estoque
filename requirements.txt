@@ -6,4 +6,5 @@ numpy
 
 cx_Oracle
 
+plotly
 openpyxl
